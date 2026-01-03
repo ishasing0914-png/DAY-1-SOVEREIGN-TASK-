@@ -1,1 +1,25 @@
+INFO: Query received
+CHECK: Source validation
+DECISION: REFUSED
+REASON: MISSING_SOURCE
+
+INFO: Query received
+CHECK: Input consistency
+DECISION: REFUSED
+REASON: CONFLICTING_ENTRIES
+
+INFO: Query received
+CHECK: Age validation
+DECISION: REFUSED
+REASON: AGE_GROUP_MISMATCH
+
+INFO: Query received
+CHECK: Fact confidence threshold
+DECISION: REFUSED
+REASON: LOW_CONFIDENCE
+
+INFO: Query received
+CHECK: Source availability
+DECISION: REFUSED
+REASON: MISSING_SOURCE
 
