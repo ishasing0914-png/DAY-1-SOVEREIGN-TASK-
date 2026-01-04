@@ -23,7 +23,7 @@ Rule
 IF the system cannot verify factual correctness with high confidence
 THEN the system must refuse.
 Reason Code: LOW_CONFIDENCE
-//////////////////////////////////////////
+
 
 REFUSAL
 Reason: <REASON_CODE>
